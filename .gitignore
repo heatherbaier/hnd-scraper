@@ -1,0 +1,4 @@
+pdfs
+*.txt
+chromedriver
+.DS_Store
