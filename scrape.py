@@ -22,7 +22,7 @@ driver = webdriver.Chrome(executable_path = "/home/hbaier/Desktop/hnd_scrape/chr
 
 # for pagina in range(1, 1749):
 
-for pagina in range(35, 1749):
+for pagina in range(1510, 1749):
 
     print(pagina)
 

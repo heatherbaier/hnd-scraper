@@ -6,7 +6,7 @@ import os
 
 output_dir = "pdfs2/"
 
-for file_path in os.listdir(output_dir)[0:15]:
+for file_path in os.listdir(output_dir):
 
     try:
 

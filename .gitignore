@@ -1,5 +1,5 @@
 pdfs
 pdfs2
-*.txt
+# *.txt
 chromedriver
 .DS_Store
